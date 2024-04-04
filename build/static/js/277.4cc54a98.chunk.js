@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkveersky_support=self.webpackChunkveersky_support||[]).push([[277],{7277:(e,s,r)=>{r.r(s),r.d(s,{default:()=>u});var t=r(5043),p=(r(7362),r(579));const u=()=>{(0,t.useEffect)((()=>{}),[]);return(0,p.jsx)(p.Fragment,{children:(0,p.jsx)("p",{children:"Dashboard yet t implement...!"})})}}}]);
-//# sourceMappingURL=277.4cc54a98.chunk.js.map

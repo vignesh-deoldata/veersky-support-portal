@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkveersky_support=self.webpackChunkveersky_support||[]).push([[548],{548:(e,s,r)=>{r.r(s),r.d(s,{default:()=>p});var t=r(5043),n=r(579);class p extends t.Component{render(){return(0,n.jsx)(n.Fragment,{children:(0,n.jsx)("p",{children:"Settings yet to implement...!"})})}}}}]);
-//# sourceMappingURL=548.8abbabcb.chunk.js.map
