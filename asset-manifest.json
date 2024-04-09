@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/veersky-support-portal/static/css/main.be2f2b50.css",
-    "main.js": "/veersky-support-portal/static/js/main.55380fd5.js",
+    "main.js": "/veersky-support-portal/static/js/main.a5613460.js",
     "static/js/926.42cde480.chunk.js": "/veersky-support-portal/static/js/926.42cde480.chunk.js",
-    "static/css/486.d3829727.chunk.css": "/veersky-support-portal/static/css/486.d3829727.chunk.css",
-    "static/js/486.dee2da9a.chunk.js": "/veersky-support-portal/static/js/486.dee2da9a.chunk.js",
+    "static/css/486.d7e7788a.chunk.css": "/veersky-support-portal/static/css/486.d7e7788a.chunk.css",
+    "static/js/486.06f5bd6a.chunk.js": "/veersky-support-portal/static/js/486.06f5bd6a.chunk.js",
     "static/js/920.0319f993.chunk.js": "/veersky-support-portal/static/js/920.0319f993.chunk.js",
     "static/css/321.79cf515e.chunk.css": "/veersky-support-portal/static/css/321.79cf515e.chunk.css",
-    "static/js/321.ae9d0e2d.chunk.js": "/veersky-support-portal/static/js/321.ae9d0e2d.chunk.js",
+    "static/js/321.ce73ea57.chunk.js": "/veersky-support-portal/static/js/321.ce73ea57.chunk.js",
     "static/js/548.b28af0e8.chunk.js": "/veersky-support-portal/static/js/548.b28af0e8.chunk.js",
     "static/css/970.ce1e3d89.chunk.css": "/veersky-support-portal/static/css/970.ce1e3d89.chunk.css",
-    "static/js/970.863484a2.chunk.js": "/veersky-support-portal/static/js/970.863484a2.chunk.js",
+    "static/js/970.e878440b.chunk.js": "/veersky-support-portal/static/js/970.e878440b.chunk.js",
     "static/js/610.e66d368d.chunk.js": "/veersky-support-portal/static/js/610.e66d368d.chunk.js",
     "static/js/453.eab0567f.chunk.js": "/veersky-support-portal/static/js/453.eab0567f.chunk.js",
     "static/js/539.e363a247.chunk.js": "/veersky-support-portal/static/js/539.e363a247.chunk.js",
@@ -31,16 +31,16 @@
     "static/media/arrow.svg": "/veersky-support-portal/static/media/arrow.5bf555d7dc1150a93a0ff08befa46dbb.svg",
     "static/media/comments.svg": "/veersky-support-portal/static/media/comments.7831a647e54c88b0095d0dc5bcbf1323.svg",
     "main.be2f2b50.css.map": "/veersky-support-portal/static/css/main.be2f2b50.css.map",
-    "main.55380fd5.js.map": "/veersky-support-portal/static/js/main.55380fd5.js.map",
+    "main.a5613460.js.map": "/veersky-support-portal/static/js/main.a5613460.js.map",
     "926.42cde480.chunk.js.map": "/veersky-support-portal/static/js/926.42cde480.chunk.js.map",
-    "486.d3829727.chunk.css.map": "/veersky-support-portal/static/css/486.d3829727.chunk.css.map",
-    "486.dee2da9a.chunk.js.map": "/veersky-support-portal/static/js/486.dee2da9a.chunk.js.map",
+    "486.d7e7788a.chunk.css.map": "/veersky-support-portal/static/css/486.d7e7788a.chunk.css.map",
+    "486.06f5bd6a.chunk.js.map": "/veersky-support-portal/static/js/486.06f5bd6a.chunk.js.map",
     "920.0319f993.chunk.js.map": "/veersky-support-portal/static/js/920.0319f993.chunk.js.map",
     "321.79cf515e.chunk.css.map": "/veersky-support-portal/static/css/321.79cf515e.chunk.css.map",
-    "321.ae9d0e2d.chunk.js.map": "/veersky-support-portal/static/js/321.ae9d0e2d.chunk.js.map",
+    "321.ce73ea57.chunk.js.map": "/veersky-support-portal/static/js/321.ce73ea57.chunk.js.map",
     "548.b28af0e8.chunk.js.map": "/veersky-support-portal/static/js/548.b28af0e8.chunk.js.map",
     "970.ce1e3d89.chunk.css.map": "/veersky-support-portal/static/css/970.ce1e3d89.chunk.css.map",
-    "970.863484a2.chunk.js.map": "/veersky-support-portal/static/js/970.863484a2.chunk.js.map",
+    "970.e878440b.chunk.js.map": "/veersky-support-portal/static/js/970.e878440b.chunk.js.map",
     "610.e66d368d.chunk.js.map": "/veersky-support-portal/static/js/610.e66d368d.chunk.js.map",
     "453.eab0567f.chunk.js.map": "/veersky-support-portal/static/js/453.eab0567f.chunk.js.map",
     "539.e363a247.chunk.js.map": "/veersky-support-portal/static/js/539.e363a247.chunk.js.map",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.be2f2b50.css",
-    "static/js/main.55380fd5.js"
+    "static/js/main.a5613460.js"
   ]
 }
