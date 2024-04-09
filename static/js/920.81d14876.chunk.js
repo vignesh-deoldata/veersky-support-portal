@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkveersky_support=self.webpackChunkveersky_support||[]).push([[920],{7920:(e,r,s)=>{s.r(r),s.d(r,{default:()=>p});var t=s(5043),n=s(579);class p extends t.Component{render(){return(0,n.jsx)(n.Fragment,{children:(0,n.jsx)("p",{children:"Document Center yet to implement...!"})})}}}}]);
-//# sourceMappingURL=920.81d14876.chunk.js.map

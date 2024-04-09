@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkveersky_support=self.webpackChunkveersky_support||[]).push([[926],{1926:(e,s,r)=>{r.r(s),r.d(s,{default:()=>t});var p=r(579);const t=()=>(0,p.jsx)(p.Fragment,{children:(0,p.jsx)("p",{children:"Dashboard not implemented...!"})})}}]);
+//# sourceMappingURL=926.42cde480.chunk.js.map

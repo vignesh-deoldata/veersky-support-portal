@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkveersky_support=self.webpackChunkveersky_support||[]).push([[920],{7920:(e,r,n)=>{n.r(r),n.d(r,{default:()=>p});var s=n(5043),t=n(579);class p extends s.Component{render(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("p",{children:"Document center not implemented...!"})})}}}}]);
+//# sourceMappingURL=920.0319f993.chunk.js.map
